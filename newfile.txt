@@ -1,2 +1,3 @@
 new repository 
 git is version control system
+changes are made 
